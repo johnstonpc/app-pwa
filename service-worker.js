@@ -5,6 +5,7 @@ self.addEventListener('install', function(event) {
           '/index.html',
           '/estilo.css',
           '/logica.js',
+          '/404.html',
           'img/cores.png',
           
         ]);
