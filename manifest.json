@@ -1,4 +1,4 @@
-{
+{   "scope": "/index.html",
     "name": "digite uma cor",
     "short_name": "cor",
     "description": "uma aplicação de teste que apenas muda a cor de fundo quando o usuario digita uma cor",
@@ -10,7 +10,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/index.html",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0047ab"
