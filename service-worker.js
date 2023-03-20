@@ -1,9 +1,10 @@
 const CACHE_NAME = "meu-pwa-cache-v1";
 const urlsToCache = [
   "/",
-  "/index.html",
-  "/style.css",
-  "/script.js",
+  '/index.html',
+  '/estilo.css',
+  '/logica.js',
+  'img/cores.png',
    "https://johnstonpc.github.io/app-pwa/"
    
 ];
